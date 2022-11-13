@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Dhruv Krishnan
+### Hi 👋, I'm Dhruv Krishnan
+### Studying Computer Science Engineering with AI at Amrita, 2021-25 Batch
 
 
 ## 🌐 Socials:
