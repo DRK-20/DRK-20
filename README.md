@@ -3,7 +3,10 @@
 ### Studying Computer Science Engineering with AI at Amrita, 2021-25 Batch
 <div id="header" align="center">
   <img src="https://visitcount.itsvg.in/api?id=DRK-20&icon=4&color=1)](https://visitcount.itsvg.in"/>
+  <img src="https://komarev.com/ghpvc/?username=radical&color=orange" />
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=DRK-20&icon=4&color=1)](https://visitcount.itsvg.in)
 
 # 💯 GitHub Stats:
 <div id="header" align="center">
