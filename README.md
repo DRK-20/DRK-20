@@ -1,14 +1,11 @@
 # 💫 About Me:
 ### Hi 👋, I'm Dhruv Krishnan
 ### Studying Computer Science Engineering with AI at Amrita, 2021-25 Batch
----
-
-[![](https://visitcount.itsvg.in/api?id=DRK-20&icon=4&color=1)](https://visitcount.itsvg.in)
+<div id="header" align="center">
+  <img src="https://visitcount.itsvg.in/api?id=DRK-20&icon=4&color=1)](https://visitcount.itsvg.in"/>
+</div>
 
 # 💯 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DRK-20&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DRK-20&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DRK-20&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <div id="header" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DRK-20&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
 </div>
