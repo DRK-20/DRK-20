@@ -1,9 +1,7 @@
 # 💫 About Me:
 ### Hi 👋, I'm Dhruv Krishnan
 ### Studying Computer Science Engineering with AI at Amrita, 2021-25 Batch
-<div id="header" align="center">
-  <img src="ttps://visitcount.itsvg.in/api?id=DRK-20&icon=4&color=1"/>
-</div>
+[![](https://visitcount.itsvg.in/api?id=DRK-20&icon=4&color=1)](https://visitcount.itsvg.in)
 
 # 💯 GitHub Stats:
 <div id="header" align="center">
