@@ -19,7 +19,6 @@
 <div id="header" align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DRK-20&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="200"/>
 </div>
-![](https://github-profile-trophy.vercel.app/?username=DRK-20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Dhruv20#9848) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drk_kai20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-krishnan-65772923a/) 
