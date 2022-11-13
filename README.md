@@ -10,11 +10,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DRK-20&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DRK-20&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DRK-20&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DRK-20&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false"/>
 </div>
 <div id="header" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRK-20&theme=shades-of-purple&hide_border=false" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRK-20&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRK-20&theme=shades-of-purple&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRK-20&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 # 💻 Tech Stack:
