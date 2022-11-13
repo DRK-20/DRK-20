@@ -1,6 +1,8 @@
 # 💫 About Me:
 ### Hi 👋, I'm Dhruv Krishnan
 ### Studying Computer Science Engineering with AI at Amrita, 2021-25 Batch
+---
+[![](https://visitcount.itsvg.in/api?id=DRK-20&icon=4&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Dhruv20#9848) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drk_kai20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-krishnan-65772923a/) 
@@ -15,8 +17,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DRK-20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=DRK-20&icon=4&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
